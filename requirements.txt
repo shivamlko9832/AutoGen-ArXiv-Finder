@@ -1,0 +1,15 @@
+autogen-agentchat
+autogen-core
+autogen-ext
+asyncio
+dotenv
+openai
+tiktoken
+pydantic
+autogenstudio
+autogen-ext[openai]
+streamlit
+arxiv
+pandas
+fpdf
+python-docx
